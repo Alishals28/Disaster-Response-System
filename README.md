@@ -46,9 +46,11 @@ This project utilizes graph-based modeling and the A* search algorithm to optimi
    ```bash
    python tests/test_cases.py
    ```
-   
+
 ## Contribution
 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
 3. Submit a pull request with a detailed description of your changes.
+
+bye
